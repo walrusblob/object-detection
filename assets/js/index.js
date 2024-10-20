@@ -72,7 +72,6 @@ async function detect(img) {
       tr.appendChild(td2);
       tr.appendChild(td3);
     });
-    console.log(output);
 }
 
 function enableDownloadButton(output) {
