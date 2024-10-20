@@ -1,0 +1,7 @@
+{
+    "headers": {
+      "/config.json": {
+        "Access-Control-Allow-Origin": "*"
+      }
+    }
+}
